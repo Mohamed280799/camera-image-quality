@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# your own photos and their results (remove these lines if you want to publish them)
+photos/
+results/photo*/
